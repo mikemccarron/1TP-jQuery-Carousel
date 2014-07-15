@@ -1,0 +1,13 @@
+{
+	"name": "jquery-tr1ck-carousel",
+	"version": "0.0.1",
+	"dependencies": {
+		"modernizr": "latest",
+		"jquery": "latest",
+		"gsap": "latest"
+	},
+	"authors": [
+		"Mike McCarron <mike@mikemccarron.com>"
+	],
+	"license": "MIT"
+}
